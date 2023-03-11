@@ -1,1 +1,1 @@
-removing a directory.
+removing a directory fully.
