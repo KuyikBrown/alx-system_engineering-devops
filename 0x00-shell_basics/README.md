@@ -1,1 +1,1 @@
-Create a script to move file from one directory to another.
+removing a directory.
